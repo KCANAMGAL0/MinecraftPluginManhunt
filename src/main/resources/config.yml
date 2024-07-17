@@ -1,0 +1,29 @@
+Map: "Map#1"
+HunterSpawn:
+  - 0
+  - 0
+  - 0
+endTower1Center:
+  - 0
+  - 0
+  - 0
+endTower2Center:
+  - 0
+  - 0
+  - 0
+HunterSpawnTheEnd:
+  - 0
+  - 0
+  - 0
+RunnerSpawnTheEnd:
+  - 0
+  - 0
+  - 0
+runnerStartLocation:
+  - 0
+  - 0
+  - 0
+NetherToWorldLocation:
+  - 0
+  - 0
+  - 0

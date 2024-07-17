@@ -1,0 +1,16 @@
+name: manhunt
+version: '${project.version}'
+main: org.manhunt.Main
+commands:
+  sidebar:
+  prepare:
+  growing:
+  team:
+  getLastDamageFrom:
+  shout:
+  setclass:
+  getclass:
+  randomTeam:
+  chat:
+  s:
+  reset:
